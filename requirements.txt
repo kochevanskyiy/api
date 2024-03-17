@@ -3,4 +3,3 @@ gunicorn
 openai
 langchain-openai
 langchain-pinecone
-
