@@ -1,5 +1,6 @@
 flask
 gunicorn
+<<<<<<< HEAD
 openai
 langchain-openai
 langchain-pinecone
@@ -7,3 +8,6 @@ flask
 python-dotenv
 gunicorn
 wfastcgi
+=======
+wfastcgi
+>>>>>>> ca4c896880760fbce7a36e57d29f408acecce05a
